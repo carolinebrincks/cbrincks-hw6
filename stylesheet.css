@@ -1,0 +1,43 @@
+/* Apply to multiple elements */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: navy;
+  }
+  
+  h2 {
+    color: darkred;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  img {
+    border: 2px solid #333;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  /* Custom class for the table */
+  .custom-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .custom-table th {
+    background-color: #ddd;
+  }
+  
